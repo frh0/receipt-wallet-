@@ -4,15 +4,15 @@
 
 
 ## Features
-1.user can upload receipt via camera 
-2.user can uload recipt from camera rool 
-3. user can choose catgory in which this receipt belogns to 
-4. it will categorise the receipt by the category
+- user can upload receipt via camera 
+- user can uload recipt from camera rool 
+-  user can choose catgory in which this receipt belogns to 
+- it will categorise the receipt by the category
 
 ## Requierements
-Xcode 14
-iPhone with A12 Bionic CPU and later running iOS 16
+- Xcode 14
+- iPhone with A12 Bionic CPU and later running iOS 16
 
 ## Installation
-Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later
+- Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later
 
